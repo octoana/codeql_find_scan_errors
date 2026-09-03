@@ -1,0 +1,5 @@
+# This application uses only the Python 3.11+ standard library.
+# No PyPI packages are required.
+#
+# External runtime dependency: GitHub CLI (`gh`)
+# https://cli.github.com/
